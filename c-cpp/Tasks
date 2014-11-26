@@ -1,0 +1,15 @@
+1. Find the minimum distance of two chars on a string
+2. Given a binary tree and an uninitialized third entry. Point that entry to the most right part of a tree
+3. Pronounce a number (123456 -> "hundred twenty three thousands four hundred fifty six")
+4. Given anagram, find longest palindrome
+5. Given heap find nth largest node.
+6. The most common character in a string
+7. Reverse linked-list
+8. Maximum sub-array problem
+9. Given an integer as input, return how many 1's are in the binary representation of that integer
+10. Given 2 linked lists, return a list with the intersection
+11. String compression: (aaabbbbcc ->a3b4c2)
+12. Set the pointer of every node in a binary tree to its right sibling. 
+13. String reversal
+14. Reverse the words in a string( Hello there! -> there! Hello)
+15. Implement strtok
