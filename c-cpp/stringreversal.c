@@ -38,6 +38,7 @@ char * reverseString(char * str){
 	for(i = 0; i < len; i++){
 		reversed--;
 	}
+	free(tmp);
 	return reversed;
 }
 
